@@ -1,0 +1,26 @@
+main{
+    background-color: blueviolet;
+    
+}
+main h1,h2{
+    text-align: center;
+}
+section.study {
+    font-size: 20px;
+    color: brown;    
+}
+li{
+    margin-left: 400px;
+}
+section.works  {
+    text-align: center;
+}
+table {
+    background-color: aquamarine;
+    width: 300px;
+    height: auto; 
+    margin-left: 400px;
+}
+th {
+    text-align: center;
+}
